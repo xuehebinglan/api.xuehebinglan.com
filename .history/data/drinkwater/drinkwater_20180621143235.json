@@ -1,0 +1,11 @@
+{
+    "xjw": {
+        "20180621": {
+            "user_name": "xjw",
+            "cup_capacity": "100",
+            "total_drink_water": "0",
+            "total_cup_number": "0",
+            "record_drink": [100, 200]
+        }
+    }
+}

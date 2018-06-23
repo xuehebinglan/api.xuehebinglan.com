@@ -1,0 +1,20 @@
+{
+  "x2": {
+    "d20180622": {
+      "user_name": "x2",
+      "cup_capacity": "190",
+      "total_drink_water": 630,
+      "total_cup_number": 4,
+      "record_drink": ["100", "170", "170", "190"]
+    }
+  },
+  "x3": {
+    "d20180622": {
+      "user_name": "x3",
+      "cup_capacity": "100",
+      "total_drink_water": 300,
+      "total_cup_number": 3,
+      "record_drink": ["100", "100", "100"]
+    }
+  }
+}
