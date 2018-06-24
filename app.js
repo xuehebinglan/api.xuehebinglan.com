@@ -9,7 +9,7 @@ app.use('/static', express.static('public'));
 
 var routerFunctions = require('./src/index')
 
-
+/*
 app.all('/*', function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
   res.header('Access-Control-Allow-Methods', 'PUT, GET, POST, DELETE, OPTIONS');
@@ -17,7 +17,7 @@ app.all('/*', function(req, res, next) {
   res.header('Access-Control-Allow-Headers', 'Content-Type');
   next();
 });
-
+*/
 
 // let apiPath = {
 //   '/': function (req, res) {
